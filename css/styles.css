@@ -1,0 +1,70 @@
+h1 {
+    color:black;
+}
+h2 {
+    color:black;
+}
+h3 {
+    color:black;
+}
+li {
+    color:black;
+}
+h5 {
+    color:black;
+}
+p {
+    color:black;
+}
+a {
+    color:black;
+}
+#topdiv {
+    background-color:white;
+    height:200px;
+}
+#logo {
+    width:200px;
+    margin:auto;
+    float:left;
+    padding-top:20px;
+    padding-left:40px;
+}
+#topdivtext {
+    padding-top:70px;
+    padding-left:10px;
+    margin:auto;
+}
+.barcolor {
+    background-color:blue;
+    height:25px;
+}
+#backgroundimage {
+    width:100%;
+    max-height: 200px;
+}
+#maincontent {
+    height:500px;
+    background-color: brown;
+}
+#verticalcolumn {
+    width:25%;
+    background-color:rgb(230, 230, 95);
+    height:100%;
+    float:left;
+}
+#maincolumn {
+    height:100%;
+    width:75%;
+    float:left;
+    background-color: orange;
+}
+#footer {
+    background-color:peru;
+    height:50px;
+    width:100%;
+}
+#footerlogo {
+    float:right;
+    height:40px;
+}
