@@ -44,6 +44,7 @@ a {
 #backgroundimage {
     width:100%;
     max-height: 200px;
+    padding-top: 0%;
 }
 #maincontent {
     height:800px;
