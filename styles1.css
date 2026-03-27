@@ -45,9 +45,8 @@ a {
     height:15px;
 }
 #backgroundimage {
-    width:90%;
+    height:400px;
     text-align:center;
-    height:auto;
 }
 #maincontent {
     height:1800px;
