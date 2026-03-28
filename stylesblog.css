@@ -75,7 +75,7 @@ a {
     padding-left:15px;
 }
 .postimage {
-    width:40%;
+    max-height:200px;
     float:left;
     margin:auto;
 }
